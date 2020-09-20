@@ -1,0 +1,27 @@
+.picture img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 2px solid black;
+}
+.picture p {
+    text-align: center;
+    color: white;
+}
+
+.info-paragraph{
+    text-align: center;
+    color: white;
+    width: 300px;
+    height: auto;
+    border: 2px solid white;
+    padding: 10px;
+}
+.main-info {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+

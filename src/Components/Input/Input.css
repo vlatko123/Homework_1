@@ -1,0 +1,17 @@
+.input-field {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #3d0c9a;
+    font-size: 14px;
+    color: black;
+    margin: 5px;
+  }
+
+  .input-wrapper label {
+    font-size: 20px;
+    font-weight: bold;
+    color: #3d0c9a;
+  }

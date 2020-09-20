@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+body a {
+  text-decoration: none;
+}
+
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+  border: 1px solid lightgrey;
+  border-radius: 5px 5px 0 0;
+  background-color: #3d0c9a;
+}
+
+.main-info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}

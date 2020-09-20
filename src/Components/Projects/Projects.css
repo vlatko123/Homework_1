@@ -1,0 +1,18 @@
+.cards-field{
+    background-color: lightgrey;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.cards-field h2{
+    margin-top: 0;
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    
+    
+}
+
