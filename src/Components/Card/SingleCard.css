@@ -1,0 +1,24 @@
+.cardContainer {
+  width: 155px;
+  min-height: 330px;
+  border: 1px solid black;
+  margin: 5px;
+  -webkit-box-shadow: -7px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -7px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -7px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.id {
+  text-align: center;
+  font-weight: bold;
+}
+
+.pictureBox {
+  padding: 2px;
+}
+.pictureBox img {
+  border: 1px solid black;
+}
+.body{
+    width: 80%;
+    margin: 0 auto;
+}
